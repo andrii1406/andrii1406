@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the finance accounting system for currency exchange chain
+- 🔭 I’m currently working on the <h6><img align="center" src="icons/currency-exchange-svgrepo-com.svg" alt="andrii1406" height="24" width="24" /> finance accounting system for the currency exchange chain <h6>
 - 🌱 I’m currently learning **Java, Typescript, HTML, CSS**
 - 📫 How to reach me: **yuhim.andrey@gmail.com**
 - 🌍 I speak Ukrainian (native), Russian (sesond), English (A2), German (A1)
