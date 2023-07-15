@@ -39,6 +39,15 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
-
 </div>
 
+
+## GitHub Statistic
+
+[![](https://visitcount.itsvg.in/api?id=andrii1406&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrii1406&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrii1406&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrii1406&theme=github_dark&utcOffset=2)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrii1406&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
