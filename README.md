@@ -30,9 +30,15 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="icons/typescript.svg" width="40" height="40" alt="TypeScript" /></a>
 </div>
 
-### Frameworks / Libraries / Preprocessors:
+### Frameworks / Preprocessors / Libraries:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="icons/hibernate.svg" alt="Hibernate Framework" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="icons/angular-logo-vector.svg" alt="Angular Framework" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
+
 </div>
 
