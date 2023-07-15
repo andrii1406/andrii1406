@@ -1,3 +1,5 @@
+<img src="/icons/intro.jpg" width="100%" height="auto" />
+
 <h1 align="center">Hi, everyone! My name is <a href="https://www.linkedin.com/in/andrii-yukhymenko/" target="_blank">Andrii Yukhymenko</a> 👋</h1>
 <h3 align="center">I am beginner full-stack developer</h3>
 
