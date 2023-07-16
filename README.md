@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a>
+<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="icons/thymeleaf.png" alt="Spring Thymeleaf" width="40" height="40"/> </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="icons/hibernate.svg" alt="Hibernate Framework" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="icons/angular-logo-vector.svg" alt="Angular Framework" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
