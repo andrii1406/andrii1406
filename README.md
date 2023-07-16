@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="icons/rxjs-1.svg" alt="figma" width="40" height="40"/> </a>
 </div>
 
+## Isometric commit calendar
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## GitHub Statistic
-![Metrics](https://metrics.lecoq.io/andrii1406?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FKiev)
-
 [![](https://visitcount.itsvg.in/api?id=andrii1406&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrii1406&theme=github_dark)
@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrii1406&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrii1406&theme=github_dark&utcOffset=2)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrii1406&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
+
