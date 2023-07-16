@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="icons/rxjs-1.svg" alt="figma" width="40" height="40"/> </a>
 </div>
 
+<a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a>
 
 ## GitHub Statistic
 
