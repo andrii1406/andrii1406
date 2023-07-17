@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ### Languages:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
+<a href="https://www.embarcadero.com/" target="_blank" rel="noreferrer"> <img src="icons/delphi.svg" alt="Delphi" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/Cplusplus.svg" alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"><img src="icons/java-1-logo-svg-vector.svg" width="40" height="40" alt="Java" /></a>
 <a href="https://www.baeldung.com/jpql-hql-criteria-query" target="_blank" rel="noreferrer"><img src="icons/HQL.svg" width="40" height="40" alt="HQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="icons/html-1.svg" width="40" height="40" alt="HTML5" /></a>
@@ -37,11 +39,21 @@ Here are some ideas to get you started:
 <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="icons/thymeleaf.png" alt="Spring Thymeleaf" width="40" height="40"/> </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="icons/hibernate.svg" alt="Hibernate Framework" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="icons/angular-logo-vector.svg" alt="Angular Framework" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="35" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
-<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="icons/rxjs-1.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="icons/rxjs-1.svg" alt="RXJS" width="40" height="40"/> </a>
 </div>
+
+### Tools:
+
+<p align="left"> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/postman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="icons/IntelliJ_IDEA_Icon.svg" alt="Idea" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="icons/WebStorm.svg" alt="WebStorm" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git.svg" alt="Git" width="40" height="40"/> </a> 
+</p>
 
 ## Isometric commit calendar
 
