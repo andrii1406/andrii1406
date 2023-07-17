@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="icons/angular-logo-vector.svg" alt="Angular Framework" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="35" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
+<a href="https://material.angular.io" target="_blank" rel="noreferrer"> <img src="icons/Material.png" alt="Angular Material" width="40" height="40"/> </a>
+<a href="https://www.ag-grid.com" target="_blank" rel="noreferrer"> <img src="icons/ag-grid.png" alt="Angular Data Grid" width="40" height="40"/> </a>
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="icons/rxjs-1.svg" alt="RXJS" width="40" height="40"/> </a>
 </div>
 
