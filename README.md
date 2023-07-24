@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <a href="https://www.embarcadero.com/" target="_blank" rel="noreferrer"> <img src="icons/delphi.svg" alt="Delphi" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/Cplusplus.svg" alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"><img src="icons/java-1-logo-svg-vector.svg" width="40" height="40" alt="Java" /></a>
-<a href="https://www.baeldung.com/jpql-hql-criteria-query" target="_blank" rel="noreferrer"><img src="icons/HQL.svg" width="40" height="40" alt="HQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="icons/html-1.svg" width="40" height="40" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="icons/css-3.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="icons/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
@@ -36,8 +35,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="icons/spring.svg" alt="Spring Framework" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="icons/NestJS.svg" alt="Nest.JS Framework" width="40" height="40"/> </a>
 <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img src="icons/thymeleaf.png" alt="Spring Thymeleaf" width="40" height="40"/> </a>
+<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="icons/Handlebars.png" alt="Handlebars Engine" width="40" height="40"/> </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="icons/hibernate.svg" alt="Hibernate Framework" width="40" height="40"/> </a>
+<a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="icons/TypeORM.png" alt="TypeORM" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="icons/angular-logo-vector.svg" alt="Angular Framework" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="icons/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="35" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="icons/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/> </a>
