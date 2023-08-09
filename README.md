@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 ### Tools:
 
 <p align="left"> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/postman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="icons/IntelliJ_IDEA_Icon.svg" alt="Idea" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="icons/WebStorm.svg" alt="WebStorm" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/postman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git.svg" alt="Git" width="40" height="40"/> </a> 
 </p>
 
