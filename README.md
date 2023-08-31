@@ -1,13 +1,13 @@
 <img src="/icons/intro.jpg" width="100%" height="auto" />
 
 <h1 align="center">Hi, everyone! My name is <a href="https://www.linkedin.com/in/andrii-yukhymenko/" target="_blank">Andrii Yukhymenko</a> 👋</h1>
-<h3 align="center">I am beginner full-stack developer</h3>
+<h3 align="center">I am junior Front-End developer (HTML5, CSS3, EcmaScript, TypeScript 5, Angular 16) + Back-End (Spring 6 (Core + Security), Hibernate 6, Java 17)</h3>
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the <h6><img align="center" src="icons/currency-exchange-svgrepo-com.svg" alt="andrii1406" height="24" width="24" /> finance accounting system for the currency exchange chain <h6>
-- 🌱 I’m currently learning **Java, Typescript, HTML, CSS**
+- 🌱 I’m currently use **Java, Typescript, HTML, CSS**
 - 📫 How to reach me: **yuhim.andrey@gmail.com**
 - 🌍 I speak Ukrainian (native), Russian (sesond), English (A2), German (A1)
 
