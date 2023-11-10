@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ## Isometric commit calendar
 
-<img src="/github-metrics.svg" alt="Metrics" width="68%">
+<!--img src="/github-metrics.svg" alt="Metrics" width="68%"-->
 
 ## GitHub Statistic
 [![](https://visitcount.itsvg.in/api?id=andrii1406&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
