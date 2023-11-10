@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/postman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git.svg" alt="Git" width="40" height="40"/> </a> 
 </p>
-
+<!--
 ## Isometric commit calendar
-
+-->
 <!--img src="/github-metrics.svg" alt="Metrics" width="68%"-->
 
 ## GitHub Statistic
